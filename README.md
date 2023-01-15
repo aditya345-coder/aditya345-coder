@@ -1,4 +1,4 @@
-**Hi there, it's Aditya 👋 (Aditya Gaharwar)**
+**Hi there, I'm Aditya 👋 (Aditya Gaharwar)**
 
 ## 🚀 About Me
 - Data Science Enthusiast
