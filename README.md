@@ -14,3 +14,4 @@
 - Python
 - HTML
 - CSS
+- MySQL
