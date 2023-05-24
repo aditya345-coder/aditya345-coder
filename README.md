@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone! 👋 My name is Aditya Gaharwar, and I'm a coding enthusiast with experience in HTML/CSS, JavaScript, Python, Power BI, and MySQL.<br>I'm particularly drawn to data-driven projects, which is why I'm currently pursuing my dream of becoming a data scientist.<br>I'm always eager to learn new things and take on exciting challenges, so I'm constantly building new projects and experimenting with different techniques. <br>You'll find all of my work and experiments right here on GitHub, so be sure to check them out and feel free to collaborate with me on any projects that interest you! 🚀📈
+Hi everyone! 👋 My name is Aditya Gaharwar, and I'm a coding enthusiast with experience in HTML/CSS, JavaScript, Python and MySQL.<br>I'm particularly drawn to data-driven projects, which is why I'm currently pursuing my dream of becoming a data scientist.<br>I'm always eager to learn new things and take on exciting challenges, so I'm constantly building new projects and experimenting with different techniques. <br>You'll find all of my work and experiments right here on GitHub, so be sure to check them out and feel free to collaborate with me on any projects that interest you! 🚀📈
 
 
 ## 🌐 Socials:
